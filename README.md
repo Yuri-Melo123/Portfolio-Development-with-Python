@@ -1,8 +1,8 @@
-# 🌤️ Captador de Temperatura de São Paulo
+# Captador de Temperatura de São Paulo
 
 Este projeto automatiza a coleta de informações de clima (temperatura, umidade, etc) da cidade de São Paulo utilizando Python, Selenium e Tkinter.
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Acesso automático à previsão do tempo via navegador
 - Coleta de:
@@ -13,7 +13,7 @@ Este projeto automatiza a coleta de informações de clima (temperatura, umidade
 - Armazenamento dos dados em uma planilha Excel
 - Interface gráfica para acionar a coleta com um clique
 
-## 🧰 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3.11+
 - Selenium
@@ -21,7 +21,7 @@ Este projeto automatiza a coleta de informações de clima (temperatura, umidade
 - OpenPyXL
 - ChromeDriver
 
-## ⚙️ Instalação
+## Instalação
 
 1. Clone o repositório:
 ```bash
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 3. Baixe o ChromeDriver compatível com sua versão do Google Chrome.
 
-## 🚀 Como Usar
+## Como Usar
 
 ```bash
 python interface.py
@@ -44,11 +44,11 @@ python interface.py
 
 Clique no botão "Buscar previsão" para coletar os dados.
 
-## 📊 Fluxograma
+## Fluxograma
 
 Veja o funcionamento no arquivo `fluxograma.pdf`.
 
-## 🧠 Aprendizados
+## Aprendizados
 
 Este projeto proporcionou uma experiência prática de automação com Python, incluindo:
 - Web scraping com Selenium
